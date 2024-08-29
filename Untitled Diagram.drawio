@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2024-08-29T16:24:00.510Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:129.0) Gecko/20100101 Firefox/129.0" version="23.1.5" etag="2VqLmqEVuQvt4hAuWH8z" type="github">
+<mxfile host="app.diagrams.net" modified="2024-08-29T16:24:47.061Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:129.0) Gecko/20100101 Firefox/129.0" etag="hlQuyAcrj25IbYwZ0OI3" version="23.1.5" type="github">
   <diagram name="Page-1" id="0pCMVxAeOzDlxkRY8xR7">
-    <mxGraphModel>
+    <mxGraphModel dx="1362" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="slEeQZYtgWCQcL11z6kT-1" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="365" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="slEeQZYtgWCQcL11z6kT-2" value="" style="triangle;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="520" y="360" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="slEeQZYtgWCQcL11z6kT-3" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="240" y="350" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
